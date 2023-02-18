@@ -31,7 +31,8 @@ different criteria, such as genre, release year, and rating.
     * POST (Create new record)
     * DELETE (Delete record by 'title')
 
-
+> The above mentioned API Calls are well defined and executed locally.<br>
+> All the outputs are saved in [output directory](https://github.com/bhavesh-asana/HuluStream/tree/main/outputs).
 
 # How to run the code?
 ## On Windows OS
